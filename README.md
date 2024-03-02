@@ -6,6 +6,9 @@
 - 💰 非🚫中介，直达导师，**价格实惠**
 - 📫 如何联系我？
   - 邮箱: MasterCSTutor@gmail.com or MasterCSTutor@outlook.com
+  - 微信：BestCSTutor
+  - ![image](https://github.com/Master-CS-Tutor/Master-CS-Tutor/assets/161056097/f4a207bf-5cae-4d4c-ac65-9852bfd14153)
+
 
 ### English
 - 👋 Hi, I’m an experienced CS Tutor, free to reach out to me for assistance on homework or class
@@ -15,6 +18,8 @@
 - 💰 I am NOT an agent. You will be talking directly with me, the tutor, offering services at a much more affordable price.
 - 📫 How to reach me?
   - Email: MasterCSTutor@gmail.com or MasterCSTutor@outlook.com
+  - Wechat: BestCSTutor
+  - ![image](https://github.com/Master-CS-Tutor/Master-CS-Tutor/assets/161056097/f4a207bf-5cae-4d4c-ac65-9852bfd14153)
 
 <!---
 Master-CS-Tutor/Master-CS-Tutor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
